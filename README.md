@@ -6,7 +6,7 @@ Golang text/html template render command line utility
 ## How to install
 
 ```sh
-$ go install github.com/major1201/gorender
+$ go get -u github.com/major1201/gorender
 ```
 
 ## How to use
